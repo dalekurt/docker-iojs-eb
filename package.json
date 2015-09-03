@@ -1,0 +1,14 @@
+{
+  "name": "aws-iojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeshua Borges <jesh@jesh.me> (http://jesh.me)",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^9.0.4"
+  }
+}
